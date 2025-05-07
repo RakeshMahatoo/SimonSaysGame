@@ -44,7 +44,7 @@ simon-game/
 
 ## 🔗 Live Demo
 
-[Play it now](https://yourusername.github.io/simon-game/) <!-- Replace with your GitHub Pages link -->
+https://simoncolorgamesays.netlify.app/
 
 ## 📬 Contact
 
