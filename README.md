@@ -25,7 +25,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🖼️ UI Preview
 
-![Simon Game Preview](https://user-images.githubusercontent.com/yourusername/simon-game-preview.png) <!-- Replace with your actual image URL -->
+![Simon Game Preview]([https://user-images.githubusercontent.com/yourusername/simon-game-preview.png](https://simoncolorgamesays.netlify.app/)) <!-- Replace with your actual image URL -->
 
 ## 📁 Folder Structure
 simon-game/
